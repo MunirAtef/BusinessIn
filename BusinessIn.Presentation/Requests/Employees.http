@@ -1,0 +1,20 @@
+@host = http://localhost:5171
+
+GET {{host}}/employees
+Authorization: Bearer ABCDEFGHIJ
+
+###
+POST {{host}}/employees
+Content-Type: application/json
+
+{
+  "email": "munir@gamil.com",
+  "firstName": "Munir",
+  "lastName": "M. Atef",
+  "imageUrl": null,
+  "salary": 30000,
+  "managerId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "teamId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "departmentId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+  "locationId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+}

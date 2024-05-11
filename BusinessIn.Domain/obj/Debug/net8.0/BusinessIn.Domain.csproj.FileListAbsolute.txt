@@ -1,0 +1,12 @@
+D:\rider\projects\BusinessIn\BusinessIn.Domain\bin\Debug\net8.0\BusinessIn.Domain.deps.json
+D:\rider\projects\BusinessIn\BusinessIn.Domain\bin\Debug\net8.0\BusinessIn.Domain.dll
+D:\rider\projects\BusinessIn\BusinessIn.Domain\bin\Debug\net8.0\BusinessIn.Domain.pdb
+D:\rider\projects\BusinessIn\BusinessIn.Domain\obj\Debug\net8.0\BusinessIn.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\rider\projects\BusinessIn\BusinessIn.Domain\obj\Debug\net8.0\BusinessIn.Domain.AssemblyInfoInputs.cache
+D:\rider\projects\BusinessIn\BusinessIn.Domain\obj\Debug\net8.0\BusinessIn.Domain.AssemblyInfo.cs
+D:\rider\projects\BusinessIn\BusinessIn.Domain\obj\Debug\net8.0\BusinessIn.Domain.csproj.CoreCompileInputs.cache
+D:\rider\projects\BusinessIn\BusinessIn.Domain\obj\Debug\net8.0\BusinessIn.Domain.dll
+D:\rider\projects\BusinessIn\BusinessIn.Domain\obj\Debug\net8.0\refint\BusinessIn.Domain.dll
+D:\rider\projects\BusinessIn\BusinessIn.Domain\obj\Debug\net8.0\BusinessIn.Domain.pdb
+D:\rider\projects\BusinessIn\BusinessIn.Domain\obj\Debug\net8.0\ref\BusinessIn.Domain.dll
+D:\rider\projects\BusinessIn\BusinessIn.Domain\obj\Debug\net8.0\BusinessIn.Domain.csproj.AssemblyReference.cache

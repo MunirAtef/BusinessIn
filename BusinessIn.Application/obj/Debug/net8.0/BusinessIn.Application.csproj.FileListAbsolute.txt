@@ -1,0 +1,15 @@
+D:\rider\projects\BusinessIn\BusinessIn.Application\obj\Debug\net8.0\BusinessIn.Application.csproj.AssemblyReference.cache
+D:\rider\projects\BusinessIn\BusinessIn.Application\obj\Debug\net8.0\BusinessIn.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\rider\projects\BusinessIn\BusinessIn.Application\obj\Debug\net8.0\BusinessIn.Application.AssemblyInfoInputs.cache
+D:\rider\projects\BusinessIn\BusinessIn.Application\obj\Debug\net8.0\BusinessIn.Application.AssemblyInfo.cs
+D:\rider\projects\BusinessIn\BusinessIn.Application\obj\Debug\net8.0\BusinessIn.Application.csproj.CoreCompileInputs.cache
+D:\rider\projects\BusinessIn\BusinessIn.Application\bin\Debug\net8.0\BusinessIn.Application.deps.json
+D:\rider\projects\BusinessIn\BusinessIn.Application\bin\Debug\net8.0\BusinessIn.Application.dll
+D:\rider\projects\BusinessIn\BusinessIn.Application\bin\Debug\net8.0\BusinessIn.Application.pdb
+D:\rider\projects\BusinessIn\BusinessIn.Application\bin\Debug\net8.0\BusinessIn.Domain.dll
+D:\rider\projects\BusinessIn\BusinessIn.Application\bin\Debug\net8.0\BusinessIn.Domain.pdb
+D:\rider\projects\BusinessIn\BusinessIn.Application\obj\Debug\net8.0\BusinessIn.Application.csproj.CopyComplete
+D:\rider\projects\BusinessIn\BusinessIn.Application\obj\Debug\net8.0\BusinessIn.Application.dll
+D:\rider\projects\BusinessIn\BusinessIn.Application\obj\Debug\net8.0\refint\BusinessIn.Application.dll
+D:\rider\projects\BusinessIn\BusinessIn.Application\obj\Debug\net8.0\BusinessIn.Application.pdb
+D:\rider\projects\BusinessIn\BusinessIn.Application\obj\Debug\net8.0\ref\BusinessIn.Application.dll
